@@ -1,4 +1,4 @@
-# CubeCloud 怎么样？CubeCloud介绍和评测
+# CubeCloud优惠码,CubeCloud介绍和评测
 
 ## CubeCloud 介绍
 CubeCloud是一家专注于提供动态云VPS、云主机和CDN等云计算服务的公司。自推出以来，其VPS服务以低资费和高带宽著称，特别适合中小企业和个人开发者使用。CubeCloud以其高性价比和稳定的服务在云服务市场中占有一席之地。
